@@ -1,0 +1,11 @@
+{
+  "appId": "com.example.app",
+  "appName": "filesystem-web-repro",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
